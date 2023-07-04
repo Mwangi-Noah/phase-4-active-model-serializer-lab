@@ -33,8 +33,8 @@ end
 
 group :test do
   gem 'rspec-json_expectations'
-  gem 'shoulda-matchers', '~> 4.0'
+  gem 'shoulda-matchers', '~> 5.3'
 end
 
-gem 'faker', '~> 2.17'
+gem 'faker', '~> 3.2.0'
 gem 'active_model_serializers'
